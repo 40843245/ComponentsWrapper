@@ -32,3 +32,6 @@ While for progress indicator -- `LinearProgressIndicator`, `CircularProgressIndi
 In `Determinate` mode, the progress indicator will only run the progress once (such as loading game when opening the app)
 
 In `Indeterminate` mode, it will be indeterminate, the progress indicator will run the progress forever until the flag is set to false (it is set to true at first) through such as interrupt of the thread etc.
+
+## changelog
+See [changelog.md in older repo `DietApp`](https://github.com/40843245/DietApp/blob/main/changelog.md)
