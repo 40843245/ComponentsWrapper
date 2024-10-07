@@ -1,6 +1,6 @@
 # Wrapper of combo of Android Comppose components
 ## functionality
-My package about Android Compose Components and dynamically MySQL statement generator.
+My package about Android Compose Components.
 
 1. I create some extension function for String type in Kotlin.
     
@@ -9,7 +9,7 @@ My package about Android Compose Components and dynamically MySQL statement gene
 - use less code to instantiate a series of components through wrapping them into classes.
 - more maintenable (for code), more extensible (to extend this functionality), and more flexible (to use).
 - For more Android Compose components that I wrapped up, see following section.
-- 
+  
 ## components
 
 I wrap the following series of Android Compose components into a class.
